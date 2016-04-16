@@ -1,0 +1,24 @@
+{
+  "name": "hubot-wttr",
+  "version": "0.0.1",
+  "description": "Asks for current weather to Wttr.in and show the result",
+  "main": "hubot-wttr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbrujo/hubot-wttr.git"
+  },
+  "keywords": [
+    "hubot",
+    "weather",
+    "wttr"
+  ],
+  "author": "Jorge Epuñan <juanbrujo@gmail.com> (http://www.csslab.cl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanbrujo/hubot-wttr/issues"
+  },
+  "homepage": "https://github.com/juanbrujo/hubot-wttr#readme"
+}
