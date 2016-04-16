@@ -2,6 +2,8 @@
 
 **Hubot script that asks for current weather to Wttr.in and show the result**
 
+[![npm version](https://badge.fury.io/js/hubot-wttr.svg)](https://badge.fury.io/js/hubot-wttr)
+
 ### Install:
 
 ````
